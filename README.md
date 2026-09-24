@@ -110,6 +110,20 @@ streamlit run app.py
 - LLM Integration
 - API Integration
 
+## Dashboard Screenshots
+
+### Dashboard Overview
+
+![Dashboard Overview](dashboard-1.png)
+
+### Sales Analytics
+
+![Sales Analytics](dashboard-2.png)
+
+### Data & AI Sales Chatbot
+
+![Data & AI Sales Chatbot](dashboard-3.png)
+
 ## Author
 
 **Sahara Rampal**
